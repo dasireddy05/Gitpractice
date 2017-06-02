@@ -4,8 +4,7 @@
 1. Execute smoke tests on premise and cloud deployments
 2. Execute Selenium Automated Tests
 3. Add them to CI
-
-
+4. Automate the tesing
 
 ## DevOps
 1. Build this code base from jenkins
@@ -13,3 +12,5 @@
 3. Use any configuration Management tool for acheiving this
 4. Create a Dockerfile also for this app
 5. docker containers
+6. Create docker file for applications
+
