@@ -1,0 +1,4 @@
+## Testers 
+1. Execute smoke tests on premise and cloud deployments
+2. Execute Selenium Automated Tests
+3. Add them to CI
