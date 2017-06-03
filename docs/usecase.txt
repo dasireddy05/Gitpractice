@@ -1,3 +1,12 @@
+
+
+## Testers 
+1. Execute smoke tests on premise and cloud deployments
+2. Execute Selenium Automated Tests
+3. Add them to CI
+
+
+
 ## DevOps
 1. Build this code base from jenkins
 2. Deploy the code to tomcat server
